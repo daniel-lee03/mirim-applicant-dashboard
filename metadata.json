@@ -1,0 +1,5 @@
+{
+  "name": "Mirim Meister High School Recruitment Analysis",
+  "description": "A web application to analyze the recruitment status for Mirim Meister High School for the year 2026, visualizing data on a map of Seoul.",
+  "requestFramePermissions": []
+}
